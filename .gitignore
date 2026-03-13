@@ -1,4 +1,4 @@
-data/
+data/creditcard.csv
 .venv/
 .DS_Store
 __pycache__/
